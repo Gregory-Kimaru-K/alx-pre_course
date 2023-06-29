@@ -1,1 +1,1 @@
-updated READ.md
+updated README.md
