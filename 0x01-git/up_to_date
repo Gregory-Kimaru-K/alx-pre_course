@@ -1,0 +1,7 @@
+remote: Enumerating objects: 7, done.
+remote: Counting objects: 100% (7/7), done.
+remote: Compressing objects: 100% (3/3), done.
+remote: Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (4/4), 793 bytes | 132.00 KiB/s, done.
+From https://github.com/Gregory-Kimaru-K/alx-pre_course
+   61ce099..b7ac20a  master     -> origin/master
